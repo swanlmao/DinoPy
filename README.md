@@ -23,7 +23,7 @@ Run the game:
 
     python dino_game.py
 
-    Use the spacebar to make the dinosaur jump and avoid the obstacles.
+Use the spacebar to make the dinosaur jump and avoid the obstacles.
 
 If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
 License
