@@ -20,7 +20,6 @@ cd dino-game-python
 
 Run the game:
 
-bash
 
     python dino_game.py
 
